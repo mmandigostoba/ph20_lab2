@@ -4,7 +4,7 @@
 Ph20 Problem Set #2
 Morgaine Mandigo-Stoba
 
-This is my edit.
+This is the edit I am making.
 """
 
 import numpy as np
